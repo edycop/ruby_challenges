@@ -1,6 +1,6 @@
 ## Challenge 18
 
-Baed in the blog post called "[How to Improve Code Quality on a Ruby on Rails Application](https://www.hexdevs.com/posts/code-quality-ruby-on-rails/#rails-code-quality-checklist)", in this challenge I want to follow the next steps to improve my code quality in this application:
+Based on the blog post called "[How to Improve Code Quality on a Ruby on Rails Application](https://www.hexdevs.com/posts/code-quality-ruby-on-rails/#rails-code-quality-checklist)", in this challenge I want to follow the next steps to improve my code quality in this application:
 
 - Measure Code Coverage with SimpleCov
 - Calculate Churn and complexity with RubyCritic
